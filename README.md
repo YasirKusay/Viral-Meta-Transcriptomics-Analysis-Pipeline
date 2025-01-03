@@ -1,4 +1,4 @@
-# Rapid Metatranscriptomics
+# Viral Meta-Transcriptomics Pipeline
 
 A new and innovative meta-transcriptomics pipeline that takes in RNA-seq samples and rapidly performs quality control and quantification using small amounts of RAM and CPU cores. Utilises an innovative way of viewing quantification data using Krona tools to view the species identified within their samples within different taxon levels, which has even been modified to show alignment scores for each species and to filter out species based on their scores (available from: https://github.com/YasirKusay/Krona/tree/filters).
 
